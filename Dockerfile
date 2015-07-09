@@ -1,4 +1,4 @@
-FROM jayaram/mt-vr-env
+FROM vraja0106/mt-vr-env
 
 MAINTAINER M1019330
 
